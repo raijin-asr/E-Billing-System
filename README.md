@@ -13,4 +13,4 @@ E-Billing system is the 6th semester project. </br>
 --jBCrypt
 
 
-copytright &copy; <em>E-Billing System</em>
+copyright &copy; <em>E-Billing System</em>
